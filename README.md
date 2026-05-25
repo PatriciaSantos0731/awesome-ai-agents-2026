@@ -224,6 +224,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [Activepieces](https://github.com/activepieces/activepieces) - Open-source Zapier alternative with AI-powered automation nodes and visual workflow builder (🏷️ `TypeScript` `Docker` `Web`).
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Deploy AI agents in the browser with zero local setup required (🏷️ `TypeScript` `Next.js` `Web`).
 - [Dify](https://github.com/langgenius/dify) - Open-source LLM app development platform with visual workflow builder and RAG orchestration (🏷️ `Python` `FastAPI` `Web`).
+- [EasyClaw](https://easyclaw.com/) - Open‑source low‑code AI workflow automation builder for web agent tasks and repetitive process automation (📌 `TypeScript` `Docker` `Web`).
 - [FastAgency](https://github.com/ag2ai/fastagency) - Deploys multi-agent workflows as production APIs with minimal configuration and setup (🏷️ `Python` `FastAPI` `SDK`).
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Open-source drag-and-drop UI to build customized LLM flows, RAG pipelines, and agent systems (🏷️ `TypeScript` `React` `Web`).
 - [Langflow](https://github.com/langflow-ai/langflow) - Visual drag-and-drop builder for LLM workflows, RAG agents, and multi-step pipelines (🏷️ `Python` `FastAPI` `Web`).
